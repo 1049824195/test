@@ -4,4 +4,8 @@ ddd
 eee
 shuaiu
 shuaoiss
+<<<<<<< HEAD
 master
+=======
+testing
+>>>>>>> testing
